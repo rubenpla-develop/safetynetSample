@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">safetynetSample</string>
+
+    <string name="safetynet_api_key">AIzaSyDvnqjhXM8MNrMUsOfDDJSL00TfbDbM4QU</string>
+</resources>
